@@ -1,5 +1,3 @@
 # newrepo1
 
-f1
-f2
-f4
+hw4p2
